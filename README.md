@@ -13,10 +13,10 @@
 <img align="left" alt="spigot.com" width="100" src="./spigot.png" />
 </a>
 
-###
-###
-### Languages and other Tools:
-### IntelliJ Idea:
+<a>
+Languages and other Tools:
+IntelliJ Idea:
+</a>
 
 <d href="https://www.jetbrains.com/">
 <img align="" alt="jetbrains.com" src="./idea.svg" />
