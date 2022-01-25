@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Embedded Style Sheet</title>
+<style>
+  h1  {
+    color: #009;
+    font-size: 1em;
+    margin-bottom: .3em;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  .images{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  }
+
+  td {
+    background-color: #ffc;
+    border: 1px solid #900;
+    padding-left: .5em;
+    padding-right: .5em;
+  }
+
+  #trHeader {
+    color: #900;
+    text-decoration: underline;
+  }
+
+  .centerCell {
+    text-align: center;
+  }
+</style>
+</head>
+</html>
