@@ -8,6 +8,10 @@
 </a>
 
 ### Languages and other Tools:
+<b href="https://www.jetbrains.com/">
+IntelliJ Idea = <img align="" alt="jetbrains.com" src="./idea.svg" />
+</b>
 
 [youtube]: https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q
 [spigot]: https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/
+[Download]: https://www.jetbrains.com/
