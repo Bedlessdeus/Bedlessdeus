@@ -7,6 +7,8 @@
 
 <a href="https://twitter.com/Bedlesssgod">
  <img align="left" alt="twitter.com" src="./twitter.svg" width="75" height="60">
+ <img align="left" alt="spigot.com" width="100" src="./spigot.png" />
+ <img align="left" alt="Bedlessgod | YouTube" width="80px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <a href="https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/">
