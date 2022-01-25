@@ -1,9 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Embedded Style Sheet</title>
-<style>
+
   h1  {
     color: #009;
     font-size: 1em;
@@ -34,6 +29,3 @@
   .centerCell {
     text-align: center;
   }
-</style>
-</head>
-</html>

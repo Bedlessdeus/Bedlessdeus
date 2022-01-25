@@ -1,5 +1,10 @@
 ### Hi there, Im Bedless - aka [Bedlessgod][youtube] on Youtube or [Bedlesssgod][spigot] on Spigot
+<!DOCTYPE HTML>
+<html>
+<head>
 <link href="style.css">
+</head>
+<body>
 <div class="images">
 <a href="https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q">
  <img align="left" alt="Bedlessgod | YouTube" width="80px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -23,6 +28,8 @@ IntelliJ Idea:
 <d href="https://www.jetbrains.com/">
 <img align="" alt="jetbrains.com" src="./idea.svg" />
 </d>
+</body>
+</html>
 
 [youtube]: https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q
 [spigot]: https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/
