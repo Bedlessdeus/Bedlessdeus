@@ -4,15 +4,10 @@
 <img align="left" alt="Bedlessgod | YouTube" width="80px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-### 
-###
 
 <a href="https://twitter.com/Bedlesssgod">
-<img align="middle" alt="twitter.com" src="./twitter.svg" width="75" height="100">
+<img align="left" alt="twitter.com" src="./twitter.svg" width="75" height="60">
 </a>
-
-###
-###
 
 <a href="https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/">
 <img align="left" alt="spigot.com" width="100" src="./spigot.png" />
