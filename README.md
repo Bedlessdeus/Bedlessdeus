@@ -2,14 +2,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<style>
-    .images{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  align-items: center;
-  }
-</style>
 </head>
 <body>
 <div class="images">
