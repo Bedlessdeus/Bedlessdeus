@@ -2,9 +2,16 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<link href="style.css">
 </head>
 <body>
+<style>
+    .images{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  }
+</style>
 <div class="images">
 <a href="https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q">
  <img align="left" alt="Bedlessgod | YouTube" width="80px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
