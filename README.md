@@ -2,7 +2,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-</head>
 <style>
     .images{
   display: flex;
@@ -11,6 +10,7 @@
   align-items: center;
   }
 </style>
+</head>
 <body>
 <div class="images">
 <a href="https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q">
