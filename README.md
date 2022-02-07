@@ -6,10 +6,6 @@
  <img align="center" alt="twitter.com" src="./twitter.svg" width="75" height="60">
 </a>
  
- <a href="https://www.jetbrains.com/idea/" target="_blank">
- <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
-</a>
- 
 <a href="https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/">
 <img align="center" alt="spigot.com" width="100" src="./spigot.png" />
 </a>
@@ -23,9 +19,9 @@ Languages and other Tools:
  
 IntelliJ Idea:
  
- <d href="https://www.jetbrains.com/idea/" target="_blank">
- <img align="center" alt="jetbrains.com" width="100" src="./idea.svg" />
- </d>
+ <a href="https://www.jetbrains.com/idea/" target="_blank">
+ <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
+</a>
 </a>
 
 [youtube]: https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q
