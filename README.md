@@ -6,7 +6,7 @@
  <img align="center" alt="twitter.com" src="./twitter.svg" width="75" height="60">
 </a>
  
- <a href="https://twitter.com/Bedlesssgod">
+ <a href=https://www.jetbrains.com/idea/">
  <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
 </a>
  
