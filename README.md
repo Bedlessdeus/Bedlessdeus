@@ -2,11 +2,11 @@
 <!DOCTYPE HTML>
 <html>
 <div class="images">
-<a href="https://twitter.com/Bedlesssgod">
+<a href="https://twitter.com/Bedlesssgod" target="_blank">
  <img align="center" alt="twitter.com" src="./twitter.svg" width="75" height="60">
 </a>
  
- <a href="https://www.jetbrains.com/idea/">
+ <a href="https://www.jetbrains.com/idea/" target="_blank">
  <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
 </a>
  
@@ -14,7 +14,7 @@
 <img align="center" alt="spigot.com" width="100" src="./spigot.png" />
 </a> 
  
- <d href="https://www.jetbrains.com/idea/">
+ <d href="https://www.jetbrains.com/idea/" target="_blank">
  <img align="center" alt="jetbrains.com" width="100" src="./idea.svg" />
  </d>
 
