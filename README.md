@@ -17,14 +17,21 @@
 Languages and other Tools: 
  
  =======================
+ 
  - Java (Spigot/Bukkit)
+ 
  =======================
+ 
  - Maven 
+ 
  =======================
  
 Tools:
+ 
  =-=-=-=-=-=-=-=-=
+ 
  - IntelliJ Idea:
+ 
  =-=-=-=-=-=-=-=-=
  
  <a href="https://www.jetbrains.com/idea/" target="_blank">
