@@ -14,6 +14,7 @@
  
 <a align="left">
 Languages and other Tools: 
+ 
 IntelliJ Idea:
  <d href="https://www.jetbrains.com/">
   <img align="left" alt="jetbrains.com" src="./idea.svg" />
