@@ -6,6 +6,10 @@
  <img align="center" alt="twitter.com" src="./twitter.svg" width="75" height="60">
 </a>
  
+ <a href="https://twitter.com/Bedlesssgod">
+ <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
+</a>
+ 
 <a href="https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/">
 <img align="center" alt="spigot.com" width="100" src="./spigot.png" />
 </a> 
