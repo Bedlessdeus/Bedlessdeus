@@ -10,6 +10,8 @@
  <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
 </a>
  
+ <p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+ 
 <a href="https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/">
 <img align="center" alt="spigot.com" width="100" src="./spigot.png" />
 </a> 
