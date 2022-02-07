@@ -11,7 +11,7 @@
 </a> 
  
  <d href="https://www.jetbrains.com/idea/">
-  <img align="center" alt="jetbrains.com" src="./idea.svg" />
+ <img align="center" alt="jetbrains.com" width="100" src="./idea.svg" />
  </d>
 
  </div>
