@@ -16,13 +16,17 @@
 <a align="left">
 Languages and other Tools: 
  
- Java (Spigot/Bukkit) 
- 
- Maven 
+ =======================
+ - Java (Spigot/Bukkit)
+ =======================
+ - Maven 
+ =======================
  
 Tools:
+ =-=-=-=-=-=-=-=-=
+ - IntelliJ Idea:
+ =-=-=-=-=-=-=-=-=
  
- IntelliJ Idea:
  <a href="https://www.jetbrains.com/idea/" target="_blank">
  <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
 </a>
