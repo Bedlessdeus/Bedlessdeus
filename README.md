@@ -17,7 +17,7 @@ Languages and other Tools:
  
  
 IntelliJ Idea:
- <d href="https://www.jetbrains.com/">
+ <d href="https://www.jetbrains.com/idea/">
   <img align="center" alt="jetbrains.com" src="./idea.svg" />
  </d>
 </a>
