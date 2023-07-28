@@ -1,43 +1,32 @@
-### Hi there, Im Bedless - aka [Bedlessgod][youtube]!
 <!DOCTYPE HTML>
 <html>
-<div class="images">
-<a href="https://twitter.com/Bedlesssgod" target="_blank">
- <img align="center" alt="twitter.com" src="./twitter.svg" width="75" height="60">
-</a>
- 
+<div class="images" align="center">
+<h1>Hi there, Im Bedless - aka Bedlessdeus</h1>
+
 <a href="https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/">
-<img align="center" alt="spigot.com" width="100" src="./spigot.png" />
+<img src="./spigot.png" alt="">
 </a>
+</div>
 
- </div>
-</html>
+### Languages:
 
-<a align="left">
-Languages and other Tools: 
- 
- =======================
- 
+======================= 
  - Java (Spigot/Bukkit)
- 
- =======================
- 
- - Maven 
- 
- =======================
- 
-Tools:
- 
- =-=-=-=-=-=-=-=-=
+
+ - Maven
+
+=======================
+### Tools:
+
+=======================
  
  - IntelliJ Idea:
- 
- =-=-=-=-=-=-=-=-=
- 
- <a href="https://www.jetbrains.com/idea/" target="_blank">
- <img align="center" alt="twitter.com" src="./idea.svg" width="75" height="60">
-</a>
-</a>
+
+[![Foo](./idea.svg)](https://www.jetbrains.com/idea/download)
+
+=======================
+
+</html>
 
 [youtube]: https://www.youtube.com/channel/UCf4GeEdUXZQsGjN5XBgdm-Q
 [spigot]: https://www.spigotmc.org/resources/authors/bedlesssgod.1144926/
