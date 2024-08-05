@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedlesssgod" alt="bedlesssgod" /></a> </p>
 
-- 🔭 I’m currently working on **SkyPvP**
+- 🔭 Currently working on **SkyPvP**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 Currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [bedless.dev](bedless.dev)
 
-- 📫 How to reach me **josephperthold@bedless.dev**
+- 📫 Reach me at **josephperthold@bedless.dev**
 
-- ⚡ Fun fact **I like Penguins**
+- ⚡ Fun fact: **I like Penguins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
