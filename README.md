@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm BedlessDeus Aka Joseph</h1>
 <h3 align="center">A passionate Java/Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedlesssgod&label=Profile%20views&color=0e75b6&style=flat" alt="bedlesssgod" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedlesssgod&label=Profile%20views&color=0e75b6&style=flat" alt="bedlessdeus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedlesssgod" alt="bedlesssgod" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedlessdeus" alt="bedlessdeus" /></a> </p>
 
 - 🔭 Currently working on **SkyPvP**
 
