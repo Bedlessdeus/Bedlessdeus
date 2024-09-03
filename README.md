@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **C#**
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="bedless.dev">bedless.dev</a>
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://bedless.dev">bedless.dev</a>
 
 - 📫 Reach me at **josephperthold@bedless.dev**
 
