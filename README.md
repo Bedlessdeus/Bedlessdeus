@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [bedless.dev](bedless.dev)
+- 👨‍💻 All of my projects are available at <a target="_blank" href="bedless.dev">bedless.dev</a>
 
 - 📫 Reach me at **josephperthold@bedless.dev**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joseph perthold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph perthold" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bedlessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bedlessgod" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joseph perthold" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph perthold" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bedlessgod" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bedlessgod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
