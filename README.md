@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedlessdeus" alt="bedlessdeus" /></a> </p>
 
-- 🔭 Currently working on **SkyPvP**
+- 🔭 Currently working on **Work**
 
-- 🌱 Currently learning **C#**
+- 🌱 Currently learning **?**
 
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://bedless.dev">bedless.dev</a>
 
